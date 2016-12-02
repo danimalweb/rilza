@@ -1,0 +1,38 @@
+Table.Red
+	{ 	
+		Background: #FF4100
+	}
+	
+Table.Blue
+	{ 	
+		Background: #4C9FFF
+	}
+	
+Table.Green
+	{ 	
+		Background: #007B59
+	}
+	
+Body
+	{
+	Font-Size: 9pt; 
+	Font-Family: courier new,serif;
+	}
+	
+Td
+	{
+	Font-Size: 9pt; 
+	Font-Family: courier new,serif;
+	}
+	
+A 
+	{
+	Color: Black;
+	text-decoration: underline
+	}
+	
+A:hover 
+	{
+	Color: Black;
+	text-decoration: none
+	}
